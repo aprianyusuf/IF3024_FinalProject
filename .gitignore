@@ -1,0 +1,28 @@
+# Lingkungan virtual Python, tidak perlu dimasukkan ke dalam repository
+venv/
+
+# File hasil kompilasi Python, tidak perlu dimasukkan ke dalam repository
+__pycache__/
+*.pyc
+*.pyo
+
+# File konfigurasi editor, spesifik untuk pengguna dan tidak perlu dibagikan
+.vscode/
+*.swp
+*.swo
+
+# File sistem operasi, otomatis dibuat oleh sistem dan tidak relevan untuk proyek
+.DS_Store
+Thumbs.db
+
+# File log, digunakan untuk debug dan tidak perlu disimpan di repository
+*.log
+
+# File konfigurasi lingkungan Python, biasanya berisi informasi sensitif seperti API key
+.env
+*.env
+
+# Artefak hasil build atau distribusi Python, dapat dibuat ulang dan tidak perlu disimpan
+build/
+dist/
+*.egg-info/
