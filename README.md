@@ -1,8 +1,8 @@
 | **Judul**             | **Final Project**                                 |
+|-----------------------|---------------------------------------------------|
 | **Mata Kuliah**       | Digital Signal Processing (IF3024)                |
 | **Program Studi**     | Teknik Informatika                                |
 | **Dosen Pengampu**    | Martin Clinton Tosima Manullang, S.T., M.T.       |
-|-----------------------|---------------------------------------------------|
 | **Nama**              | Aprian Yusuf Nugroho                              |
 | **NIM**               | 118140144                                         |
 | **GitHub**            | [aprianyusuf](https://github.com/aprianyusuf)     |
