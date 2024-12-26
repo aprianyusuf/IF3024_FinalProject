@@ -1,5 +1,4 @@
 | **Judul**             | **Final Project**                                 |
-|-----------------------|---------------------------------------------------|
 | **Mata Kuliah**       | Digital Signal Processing (IF3024)                |
 | **Program Studi**     | Teknik Informatika                                |
 | **Dosen Pengampu**    | Martin Clinton Tosima Manullang, S.T., M.T.       |
